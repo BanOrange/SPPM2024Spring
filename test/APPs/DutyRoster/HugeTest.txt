@@ -1,0 +1,27 @@
+
+
+Period{2021-01-10,2022-01-09}
+
+
+
+Employee{
+ZhangSan{Manger,139-0451-0000}
+LiSi{Secretary,151-0101-0000}
+WangWu{Associate Dean,177-2021-0301}
+QuanJunkang{student,123-4567-8975}
+WangZhongjie{Teacher,465-3545-3456}
+LiuMingyi{TA,234-4556-3422}
+Todd{GameDeveloper,234-4567-3455}
+}
+
+Roster{
+
+
+ZhangSan{2021-01-10,2021-01-31}
+LiSi{2021-02-01,2021-02-28}
+WangWu{2021-03-01,2021-03-10}
+WangZhongjie{2021-03-11,2021-03-30}
+QuanJunkang{2021-03-31,2021-05-01}
+Todd{2021-05-02,2021-08-22}
+LiuMingyi{2021-08-23,2022-01-09}
+}
